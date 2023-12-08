@@ -1,0 +1,25 @@
+.activated-licenses {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.license-list {
+    display: grid;
+    grid-gap: 15px;
+    margin-top: 10px;
+}
+
+.license-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.license-item p {
+    margin: 5px 0;
+}
+
+.license-item strong {
+    color: #333;
+}
